@@ -31,12 +31,7 @@ public class ProfileActivity extends AppCompatActivity implements View.OnClickLi
     public static  final String USER_ID ="userid";
 
     public Intent artistIntent;
-
     private FirebaseAuth firebaseAuth;
-
-
-
-
 
     //view objects
     private TextView textViewUserEmail;
