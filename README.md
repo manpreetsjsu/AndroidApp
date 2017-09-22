@@ -6,4 +6,4 @@ Once the user is logged in, they can add music albums/tracks to their account.
 
 The database is synchronized with the Google Firebase.
 
-Please refer to ScreenShort_App Directory for quick reference/layout of the app.
+Please refer to ScreenShot_App Directory for quick reference/layout of the app.
