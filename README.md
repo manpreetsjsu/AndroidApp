@@ -5,3 +5,5 @@ This is basic music login Android App which allow users to register with their e
 Once the user is logged in, they can add music albums/tracks to their account.
 
 The database is synchronized with the Google Firebase.
+
+Please refer to ScreenShort_app Directory for quick reference/layout of the app.
